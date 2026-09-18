@@ -1,0 +1,408 @@
+Overall Status,Storage and/or Capture,Continent Name,Country Code,DOE Support,Exact Checkbox,Paper,Regional Partnership,Latitude,Longitude,Project Type,Size_Capture_Amount
+Hold,Capture and Storage,Europe,Rom,0,1,0,0,44.669722,23.407778,CCS,4110.0
+Active,Capture,North America,USA,1,1,0,0,47.065715,-101.21429,Capture,455.0
+Active,Storage,North America,USA,1,1,0,1,47.0946,-101.309539,Storage,450.0
+Active,Capture,North America,USA,1,1,0,0,30.533711,-88.555873,Capture,1000.0
+Active,Capture,North America,USA,1,1,0,0,36.803648,-108.440482,Capture,423.5
+Active,Storage,North America,USA,1,0,0,0,36.934091,-108.05291,Storage,450.0
+Active,Capture,North America,USA,1,1,0,0,38.27819099,-89.6671705,Capture,450.0
+Active,Capture,North America,USA,1,1,0,0,4.389034,-105.461138,Capture,385.0
+Active,Storage,North America,USA,1,0,0,0,44.390811,-105.438446,Storage,450.0
+Active,Capture,North America,USA,0,1,0,0,41.080848,-101.141182,Capture,700.0
+Completed,Unknown,North America,USA,1,0,0,0,40.108909,-100.942403,Hub,450.0
+Active,Unknown,North America,USA,1,1,0,0,33.576686,-96.61453,Capture,741.0
+Active,Unknown,North America,USA,1,1,0,0,32.972526,-102.741463,Capture,430.0
+Active,Unknown,North America,USA,0,1,0,0,35.280528,-119.470135,Capture,550.0
+Active,Unknown,North America,USA,1,1,0,0,39.531734,-87.427483,Storage,450.0
+Active,Unknown,North America,USA,1,0,0,0,44.392581,-105.447468,Storage,385.0
+Active,Capture,North America,CA,0,1,0,0,53.579909,-113.60094,Capture,450.0
+Active,Capture,Europe,Sz,0,0,0,0,64.036714,-21.400102,Direct Air Capture,450.0
+Potential,Storage,Africa,DZ,0,0,0,0,30.565029,6.433333,Storage,450.0
+Hold,Capture and Storage,Africa,DZ,1,0,0,0,27.185919,2.497676,CCS,450.0
+Completed,Capture and Storage,Australia,AU,0,1,0,0,-24.34121895,150.6085205,CCS,30.0
+Completed,Capture,Australia,AU,0,1,0,0,-33.211619,151.542258,Capture,450.0
+Completed,Capture,Australia,AU,0,1,0,0,-26.783583,151.91512,Capture,450.0
+Active,Capture,Australia,AU,0,1,0,0,-38.23505402,146.5717468,Capture,10.0
+Terminated,Capture and Storage,Australia,AU,0,0,0,0,-25.843656,148.565414,CCS,100.0
+Hold,Capture and Storage,Australia,AU,0,0,0,0,-36.66844559,139.9955444,CCS,300.0
+Active,Capture and Storage,Australia,AU,0,1,0,0,-20.77690887,115.460907,CCS,41100.0
+Terminated,Capture and Storage,Australia,AU,1,1,0,0,-38.27297592,146.3917847,CCS,1635.0
+Active,Capture,Australia,AU,0,0,0,0,-38.255862,146.592067,Capture,600.0
+Terminated,Capture and Storage,Australia,AU,0,0,0,0,-32.215362,115.776058,CCS,500.0
+Terminated,Capture and Storage,Australia,AU,0,1,0,0,-38.235301,146.57174,CCS,60000.0
+Hold,Storage,Australia,AU,0,1,0,0,-28.113216,140.206906,Storage,450.0
+Active,Capture and Storage,Australia,AU,1,1,0,0,-38.530524,142.811616,CCS,450.0
+Active,Storage,Australia,AU,0,1,0,0,-8.945793,126.429718,Storage,450.0
+Terminated,Capture and Storage,Australia,AU,0,1,0,0,-23.510207,150.319062,CCS,80.0
+Active,Storage,Europe,Rom,0,0,0,0,45.871514,22.053591,Storage,450.0
+Active,Capture and Storage,North America,CA,0,0,0,0,53.788356,-112.961851,Tk,450.0
+Hold,Capture and Storage,North America,CA,0,0,0,0,50.395646,-105.153207,Capture,500.0
+Active,Capture and Storage,North America,CA,0,1,0,0,49.096174,-103.030653,CCS,115.0
+Completed,Storage,North America,CA,0,0,0,0,52.050455,-112.734195,Storage,450.0
+Potential,Capture and Storage,North America,CA,0,0,0,0,51.113532,-114.112924,Transport,450.0
+Active,Storage,North America,CA,0,1,0,0,54.570961,-115.520025,Storage,450.0
+Active,Capture and Storage,North America,CA,0,1,0,0,53.841572,-113.112056,CCS,150000.0
+Completed,Storage,North America,USA,1,1,0,1,46.106511,-118.915757,Storage,450.0
+Completed,Storage,North America,CA,0,0,0,0,52.66256,-114.667908,Storage,450.0
+Terminated,Capture and Storage,North America,CA,0,1,0,0,49.088206,-102.864847,CCS,300.0
+Terminated,Capture and Storage,North America,CA,0,0,0,0,54.565619,-115.731991,Capture,300.0
+Completed,Capture and Storage,North America,CA,1,0,0,0,49.414461,-103.438402,CCS,450.0
+Potential,Capture and Storage,Asia,CN,0,0,0,0,39.051371,117.412391,CCS,330.0
+Active,Capture and Storage,Asia,CN,0,0,0,0,39.1037941,117.2521591,CCS,400.0
+Completed,Capture and Storage,Asia,CN,0,1,0,0,41.137084,122.137069,CCS,450.0
+Active,Capture and Storage,Asia,CN,1,1,0,0,39.330467,110.151331,CCS,24000.0
+Active,Capture,Asia,CN,0,1,0,0,39.886528,116.5325,Capture,845.0
+Completed,Storage,Asia,CN,0,0,0,0,35.69060135,112.1750412,Storage,450.0
+Completed,Capture and Storage,Europe,DK,0,1,0,0,55.45437622,8.453642845,CCS,400.0
+Potential,Capture and Storage,Europe,GB,0,1,0,0,53.633126,-0.24317,CCS,1180.0
+Terminated,Capture,Europe,GB,0,1,0,0,51.418737,0.601415,Capture,1600.0
+Terminated,Capture,Europe,GB,0,1,0,0,55.143175,-1.527295,Capture,2400.0
+Completed,Storage,Europe,FR,0,0,0,0,47.83117,1.938112,Storage,450.0
+Completed,Capture and Storage,Europe,FR,0,1,0,0,43.409338,-0.634186,CCS,0.9
+Active,Capture and Storage,Europe,FR,0,1,0,0,48.955353,2.729149,CCS,23.0
+Hold,Storage,Europe,DE,0,0,0,0,52.83368,11.154315,Storage,1000.0
+Completed,Storage,Europe,DE,1,1,0,0,51.191544,12.356714,Storage,450.0
+Terminated,Capture and Storage,Europe,DE,0,1,0,0,50.863656,6.838015,CCS,450.0
+Completed,Capture,Europe,DE,0,1,0,0,50.994088,6.667984,Capture,1000.0
+Terminated,Capture and Storage,Europe,DE,0,1,0,0,51.531127,14.351916,CCS,30.0
+Hold,Capture and Storage,Europe,IT,0,1,0,0,44.99508667,9.939902306,CCS,660.0
+Completed,Storage,Asia,JP,0,0,0,0,36.08712387,138.0771027,Storage,450.0
+Completed,Storage,Asia,JP,0,1,0,0,43.006987,142.08831,Storage,450.0
+Active,Capture,Asia,JP,0,0,0,0,33.872884,130.752913,Capture,18.0
+Completed,Capture,Asia,JP,0,1,0,0,32.939747,129.59783,Capture,1000.0
+Completed,Storage,Asia,JP,0,0,0,0,37.449965,138.850413,Storage,450.0
+Active,Capture,Asia,JP,0,1,0,0,34.61697769,135.4057465,Capture,2.0
+Completed,Capture,Asia,JP,0,1,0,0,35.35792923,139.8679047,Capture,450.0
+Active,Capture,Asia,JP,0,1,0,0,35.475659,140.028774,Capture,450.0
+Active,Capture,Asia,MY,0,1,0,0,5.83516,100.49881,Capture,450.0
+Completed,Capture and Storage,Europe,NL,0,1,0,0,53.341915,3.896861,CCS,450.0
+Active,Capture and Storage,Europe,NL,0,1,0,0,51.961685,4.09398,CCS,850.0
+Hold,Capture and Storage,Europe,NL,1,1,0,0,53.447939,6.853228,CCS,1200.0
+Completed,Capture and Storage,Europe,NL,0,0,0,0,53.107152,6.050072,CCS,50.0
+Active,Capture,Europe,NL,0,1,0,0,51.957395,4.027916,Capture,1040.0
+Active,Storage,Europe,NO,0,0,0,0,56.549197,3.209986,Storage,450.0
+Terminated,Capture and Storage,Europe,NO,0,0,0,0,63.41136551,8.729652405,CCS,860.0
+Hold,Capture and Storage,Europe,NO,0,1,0,0,59.280426,5.523822,CCS,420.0
+Active,Capture and Storage,Europe,NO,0,1,0,0,60.81358337,5.028857231,CCS,630.0
+Hold,Capture and Storage,Europe,NO,0,0,0,0,59.85858,5.740327,CCS,400.0
+Active,Capture and Storage,Europe,NO,1,0,0,0,58.188087,2.731416,CCS,450.0
+Active,Capture and Storage,Europe,NO,1,1,0,0,70.6877507,23.597363,CCS,450.0
+Completed,Storage,Europe,PL,0,0,0,0,49.9476,19.0632,Storage,15.0
+Completed,Storage,Europe,PL,0,1,0,0,49.9476,19.0632,Storage,450.0
+Terminated,Capture and Storage,Europe,S,0,1,0,0,57.477624,-1.788701,CCS,385.0
+Terminated,Capture,Europe,GB,0,1,1,0,55.967693,-2.9709975,Capture,1200.0
+Terminated,Capture and Storage,Europe,NL,0,1,0,0,51.881705,4.359552,CCS,117.0
+Terminated,Capture and Storage,North America,USA,0,1,0,0,28.9773217,-95.3509855,CCS,400.0
+Terminated,Capture and Storage,Australia,AU,0,0,0,0,-25.067967,148.595423,CCS,400.0
+Active,Capture and Storage,Australia,AU,0,0,0,0,-38.131486,146.363143,CCS,450.0
+Active,Capture and Storage,Australia,AU,0,0,0,0,-33.501991,116.330709,CCS,450.0
+Hold,Capture and Storage,North America,CA,0,0,0,0,50.426664,-112.218873,CCS,1000.0
+Terminated,Capture and Storage,North America,CA,0,1,0,0,53.447382,-114.449536,CCS,450.0
+Active,Capture and Storage,North America,USA,0,1,0,0,35.759809,-117.376175,CCS,108.0
+Active,Capture,South America,BR,0,0,0,0,-22.465016,-43.804919,Capture,450.0
+Active,Capture,Asia,In,0,0,0,0,28.276608,79.168361,Capture,450.0
+Terminated,Capture,Asia,CN,1,0,0,0,34.596891,119.220804,Capture,1200.0
+Terminated,Capture,Europe,Fi,1,1,0,0,61.631878,21.40684,Capture,565.0
+Active,Capture and Storage,Asia,KR,0,0,0,0,37.45,129.165,CCS,300.0
+Hold,Capture and Storage,Europe,FR,0,0,0,0,49.323907,6.091537,CCS,0.0
+Hold,Capture and Storage,Europe,IT,1,0,0,0,44.955975,12.488261,CCS,250.0
+Terminated,Capture and Storage,Europe,NL,0,0,0,0,51.958989,4.026485,CCS,250.0
+Terminated,Capture and Storage,Europe,PL,1,1,0,0,51.266389,19.330556,CCS,858.0
+Active,Capture and Storage,North America,USA,0,1,0,0,37.046926,-95.608486,CCS,450.0
+Terminated,Capture and Storage,Europe,PL,0,1,0,0,50.316361,18.251953,CCS,300.0
+Active,Capture,North America,USA,0,0,0,0,42.261909,-110.194623,Capture,0.0
+Active,Capture and Storage,North America,USA,0,0,0,0,29.804012,-101.167563,CCS,0.0
+Completed,Storage,North America,USA,1,1,0,1,38.1174,-121.8044,Storage,450.0
+Active,Capture and Storage,Asia,KR,0,0,0,0,36.47430676,127.9467773,CCS,300.0
+Active,Capture,Asia,AE,0,1,0,0,24.136783,52.738073,Capture,400.0
+Active,Capture,Asia,CN,0,0,0,0,28.87176,105.442141,Capture,158.92
+Potential,Capture and Storage,Asia,AE,0,1,0,0,24.22123,54.466994,CCS,11782.0
+Hold,Capture and Storage,Europe,GB,0,0,0,0,54.575354,-1.127528,CCS,850.0
+Terminated,Capture and Storage,Europe,GB,1,1,0,0,53.65401077,-0.258845002,CCS,470.0
+Active,Capture,Europe,GB,0,1,0,0,51.387226,-3.406614,Capture,3.0
+Terminated,Capture and Storage,Europe,GB,0,1,0,0,51.456074,0.38857,CCS,1131.0
+Hold,Capture and Storage,Asia,AE,0,0,0,0,24.47527313,54.36998749,CCS,420.0
+Active,Storage,Europe,Ire,0,0,0,0,53.321801,-5.809636,Storage,450.0
+Hold,Capture,North America,USA,0,0,0,0,38.927706,-81.768613,Capture,629.0
+Terminated,Capture and Storage,North America,USA,1,1,0,0,38.97882462,-81.938797,CCS,30.0
+Hold,Capture,North America,USA,0,1,0,0,36.430797,-95.700805,Capture,450.0
+Terminated,Capture,North America,USA,0,0,0,0,36.476601,-97.177595,Capture,950.0
+Terminated,Capture,North America,USA,0,1,0,0,39.082102,-84.859778,Capture,500.0
+Terminated,Capture and Storage,North America,USA,1,1,0,0,40.602446,-80.650773,CCS,53000.0
+Completed,Storage,North America,USA,1,1,0,1,39.041661,-88.893386,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,38.40745,-87.95868,Storage,450.0
+Hold,Capture,North America,USA,0,0,0,0,41.896108,-106.20491,Capture,20000.0
+Hold,Capture and Storage,North America,USA,0,1,0,0,35.219122,-81.761418,CCS,825.0
+Hold,Capture and Storage,North America,USA,0,1,0,0,38.80667877,-87.24694824,CCS,618.0
+Active,Capture,North America,USA,0,1,0,0,40.540775,-89.679655,Capture,1538.0
+Hold,Capture,North America,USA,1,0,0,0,47.30176,-93.371553,Capture,602.0
+Terminated,Capture and Storage,North America,USA,0,1,1,0,41.689842,-83.437491,CCS,153.0
+Terminated,Capture and Storage,North America,USA,1,0,0,0,39.773533,-90.097383,CCS,200.0
+Active,Capture,North America,USA,0,1,0,0,47.37694168,-101.1572266,Capture,1100.0
+Completed,Storage,North America,USA,0,1,0,0,37.792519,-86.69423,Storage,450.0
+Active,Capture,North America,USA,0,1,0,0,39.509213,-112.580616,Capture,950.0
+Potential,Capture and Storage,North America,USA,0,0,0,0,42.09919739,-79.23827362,CCS,40.0
+Active,Capture and Storage,North America,USA,0,0,0,0,37.539456,-105.104697,CCS,450.0
+Hold,Capture and Storage,North America,USA,0,0,0,0,40.717629,-84.111123,CCS,540.0
+Completed,Capture and Storage,North America,USA,1,1,0,1,39.876963,-88.89341,CCS,450.0
+Completed,Storage,North America,USA,1,1,0,1,37.26265,-87.578917,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,38.187413,-87.879005,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,39.912682,-80.76458,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,38.908484,-84.853985,Storage,450.0
+Completed,Capture and Storage,North America,USA,1,1,0,1,45.019154,-84.529174,CCS,450.0
+Completed,Capture and Storage,North America,USA,1,1,0,1,45.044878,-84.487203,CCS,450.0
+Hold,Capture and Storage,North America,CA,1,1,0,1,58.653455,-122.689083,CCS,450.0
+Completed,Capture and Storage,North America,CA,1,1,0,1,59.064553,-118.880284,CCS,450.0
+Terminated,Capture and Storage,North America,USA,0,0,0,0,43.017819,-78.88077,CCS,680.0
+Terminated,Capture,North America,USA,0,1,0,0,41.73715,-71.146057,Capture,380.0
+Active,Capture and Storage,North America,USA,1,1,0,0,29.477664,-95.635021,CCS,240.0
+Completed,Storage,North America,USA,1,1,0,1,48.549909,-102.239482,Storage,450.0
+Completed,Capture and Storage,North America,USA,1,1,0,1,45.097,-105.109,CCS,50000000.0
+Completed,Storage,North America,USA,1,0,0,1,48.575622,-102.942431,Storage,450.0
+Potential,Capture,North America,USA,0,1,0,0,38.27881,-89.667328,Capture,1600.0
+Terminated,Capture and Storage,North America,USA,0,0,0,0,37.293611,-87.118872,CCS,450.0
+Active,Capture and Storage,North America,USA,0,0,0,0,30.808782,-102.617342,Storage,450.0
+Active,Storage,North America,USA,0,1,0,0,40.14480209,-108.9541397,Storage,14000.0
+Active,Storage,North America,USA,0,0,0,0,41.514815,-108.615272,Storage,450.0
+Completed,Capture and Storage,North America,USA,1,1,0,1,31.005154,-88.008941,CCS,25.0
+Completed,Storage,North America,USA,1,1,0,1,33.347691,-87.49419,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,37.08158333,-81.9609,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,31.589822,-91.154311,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,31.578581,-91.172386,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,30.53,-88.556111,Storage,450.0
+Terminated,Capture,North America,USA,0,1,0,0,29.7329,-81.6332,Capture,750.0
+Terminated,Capture,North America,USA,0,0,0,0,29.07198,-95.749718,Capture,683.0
+Completed,Storage,North America,USA,1,1,0,1,37.30745,-109.3378278,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,32.809575,-100.9307056,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,36.85479722,-107.6983472,Storage,450.0
+Terminated,Capture,North America,USA,0,0,0,0,39.589044,-89.188766,Capture,630.0
+Terminated,Capture and Storage,North America,USA,0,0,0,0,32.525131,-100.262633,CCS,600.0
+Hold,Capture and Storage,North America,USA,0,0,0,0,37.843695,-87.590435,CCS,720.0
+Active,Storage,North America,USA,0,0,0,0,31.927655,-102.212316,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,1,34.928611,-110.258611,Storage,450.0
+Hold,Capture and Storage,North America,USA,0,0,0,0,37.8567,-103.1112,CCS,600.0
+Active,Storage,North America,USA,0,0,0,0,30.920613,-101.935292,Storage,450.0
+Hold,Capture and Storage,Asia,CN,0,1,0,0,45.96659088,126.6637726,CCS,2740.0
+Terminated,Capture and Storage,North America,USA,0,0,0,0,40.608355,-74.219695,CCS,500.0
+Terminated,Capture and Storage,North America,USA,0,1,0,0,46.102622,-118.918573,CCS,700.0
+Potential,Capture and Storage,North America,USA,0,0,0,0,32.461351,-97.890919,CCS,70.0
+Active,Capture and Storage,North America,USA,0,1,0,0,43.38488,-84.630136,CCS,250.0
+Terminated,Capture and Storage,North America,USA,1,1,0,0,35.332443,-119.383456,CCS,400.0
+Terminated,Capture and Storage,North America,USA,1,1,0,0,32.649461,-88.757013,CCS,582.0
+Terminated,Capture and Storage,Europe,DE,1,1,0,0,51.8334245,14.4720226,CCS,3000.0
+Completed,Storage,North America,USA,1,0,0,0,30.030999,-94.86129,Storage,450.0
+Completed,Capture,Europe,DE,0,1,0,0,52.382747,8.996095,Capture,7.0
+Completed,Capture,Europe,DE,0,1,0,0,53.565104,8.145691,Capture,756.0
+Hold,Capture,Europe,Bul,0,1,0,0,42.255494,26.131763,Capture,1450.0
+Potential,Capture and Storage,Europe,Czech,0,1,0,0,50.575824,13.77955,CCS,660.0
+Potential,Capture and Storage,Europe,Czech,0,0,0,0,50.086012,14.43126,CCS,660.0
+Hold,Capture and Storage,Europe,DK,0,1,0,0,57.073957,10.040272,CCS,411.0
+Terminated,Capture and Storage,Europe,DE,0,1,0,0,54.081028,13.488122,CCS,1600.0
+Terminated,Capture and Storage,Europe,IT,0,0,0,0,37.93491,15.725314,CCS,1320.0
+Active,Capture and Storage,Europe,IT,0,1,0,0,40.566917,18.031435,CCS,660.0
+Completed,Capture and Storage,North America,USA,1,1,0,0,29.865913,-93.967359,CCS,450.0
+Terminated,Capture and Storage,North America,USA,1,1,0,0,30.189176,-93.306548,CCS,450.0
+Terminated,Capture and Storage,North America,USA,1,0,0,0,31.74604,-102.608324,CCS,400.0
+Completed,Capture,Australia,AU,0,1,0,0,-38.272924,146.391758,Capture,1675.0
+Completed,Capture,Australia,AU,0,1,0,0,-37.913772,145.15598,Capture,1.1
+Hold,Capture,Europe,NL,0,1,0,0,53.442813,6.850781,Capture,1600.0
+Terminated,Capture,Europe,NL,0,1,0,0,51.22278,5.9733,Capture,253.0
+Active,Capture,North America,USA,0,1,0,0,42.09222,-71.48306,Capture,320.0
+Active,Capture,North America,USA,0,1,0,0,39.596175,-78.745581,Capture,180.0
+Terminated,Capture,North America,USA,0,1,0,0,35.191944,-94.6425,Capture,320.0
+Completed,Capture,Asia,JP,0,1,0,0,35.215,139.72028,Capture,1.0
+Completed,Capture,Europe,Swd,0,0,0,0,59.34833,18.07028,Capture,3288.0
+Completed,Capture,North America,USA,0,1,0,0,42.53944,-87.90444,Capture,1.7
+Active,Capture,Asia,JP,0,1,0,0,33.020082,130.421904,Capture,47.5
+Active,Capture,Europe,DE,0,1,0,0,50.08917,8.95,Capture,510.0
+Completed,Capture and Storage,North America,USA,0,0,0,0,33.45438,-101.862836,CCS,50.0
+Completed,Capture and Storage,North America,USA,0,0,0,0,33.205873,-97.729303,CCS,450.0
+Terminated,Capture and Storage,Australia,AU,0,0,0,0,-29.81,115.24,CCS,400.0
+Hold,Capture and Storage,Asia,MY,0,1,0,0,3.25,113.12,CCS,450.0
+Hold,Storage,North America,CA,0,0,0,0,53.945484,-113.067108,Storage,450.0
+Terminated,Capture and Storage,North America,USA,1,0,0,0,31.36325836,-96.14356995,CCS,275.0
+Terminated,Capture and Storage,North America,USA,1,0,0,0,39.496862,-88.440473,CCS,275.0
+Terminated,Capture and Storage,North America,USA,1,0,0,0,31.85984802,-102.3777237,CCS,275.0
+Terminated,Capture and Storage,North America,USA,1,1,0,0,39.801556,-88.325743,CCS,275.0
+Completed,Storage,North America,USA,1,1,0,0,41.002159,-73.908508,Storage,450.0
+Completed,Storage,North America,USA,1,0,0,0,40.10099,-88.229099,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,0,40.435449,-107.593316,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,0,33.592869,-118.174017,Storage,450.0
+Completed,Storage,North America,USA,1,0,0,0,33.113913,-80.533211,Storage,450.0
+Completed,Storage,North America,USA,1,0,0,0,28.394151,-96.186152,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,0,41.712614,-108.79482,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,0,33.647396,-87.195723,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,0,37.165836,-101.251679,Storage,450.0
+Active,Capture,Europe,Sp,0,1,0,0,38.655582,-3.986858,Capture,335.0
+Completed,Capture and Storage,North America,CA,0,1,0,0,52.309312,-113.549264,CCS,450.0
+Active,Capture and Storage,North America,USA,0,0,0,0,34.715904,-97.587533,CCS,450.0
+Completed,Capture,North America,USA,1,1,0,0,33.243601,-86.469014,Capture,1.0
+Completed,Capture,North America,USA,1,1,0,0,27.794879,-82.40066,Capture,2.5
+Completed,Capture,North America,USA,1,1,0,0,33.632011,-87.060964,Capture,1.0
+Active,Capture and Storage,Europe,Sp,0,1,0,0,42.613066,-6.563108,CCS,323.0
+Active,Capture and Storage,South America,BR,0,0,0,0,-25.595699,-42.331474,CCS,450.0
+Active,Storage,North America,USA,1,1,0,1,36.260007,-101.009301,Storage,450.0
+Active,Storage,North America,USA,1,1,0,1,48.859252,-111.721966,Storage,450.0
+Completed,Capture and Storage,North America,USA,1,1,0,0,39.748189,-80.541217,CCS,450.0
+Completed,Storage,North America,USA,1,0,0,0,39.979384,-107.510387,Storage,450.0
+Completed,Capture and Storage,North America,USA,1,1,0,0,37.290102,-82.615054,CCS,229.0
+Active,Capture and Storage,Europe,Ice,1,0,0,0,64.036435,-21.396845,CCS,303.0
+Potential,Capture and Storage,North America,MX,0,1,0,0,20.526377,-97.491807,CCS,250.0
+Completed,Capture,North America,USA,1,1,0,0,27.725119,-81.993792,Capture,50.0
+Active,Capture and Storage,North America,MX,0,0,0,0,17.638724,-92.941641,CCS,450.0
+Active,Storage,North America,USA,0,0,0,0,42.847634,-105.973604,Storage,450.0
+Active,Capture,Europe,E,0,1,0,0,53.717405,-1.279432,Capture,5.0
+Completed,Capture and Storage,North America,USA,1,1,0,0,40.824822,-81.865536,CCS,450.0
+Potential,Capture and Storage,Europe,GB,0,1,0,0,53.591456,-1.020039,CCS,650.0
+Hold,Capture,Europe,NO,0,0,0,0,62.980253,6.964092,Capture,250.0
+Active,Capture and Storage,Australia,AU,0,1,0,0,-26.783863,151.915747,CCS,450.0
+Terminated,Capture and Storage,Australia,AU,0,0,0,0,-14.43468022,120.6738281,CCS,450.0
+Potential,Capture and Storage,Australia,AU,0,0,0,0,-23.473166,146.551237,CCS,900.0
+Active,Capture,Asia,B,0,1,0,0,26.143917,50.639774,Capture,450.0
+Active,Capture and Storage,South America,BR,0,0,0,0,-12.36519,-38.273056,CCS,450.0
+Potential,Capture and Storage,Europe,Rom,0,0,0,0,45.929741,22.848412,CCS,15.0
+Hold,Storage,North America,CA,0,1,0,0,53.343584,-114.303553,Storage,150.0
+Terminated,Capture and Storage,Europe,S,0,1,0,0,56.04833,-3.68249,CCS,2400.0
+Terminated,Capture and Storage,Europe,S,0,1,0,0,56.04833,-3.68249,CCS,2400.0
+Terminated,Capture and Storage,Europe,S,0,1,0,0,55.720961,-4.895658,CCS,1852.0
+Completed,Storage,North America,USA,1,1,0,0,30.4658,-90.767859,Storage,450.0
+Completed,Storage,North America,USA,1,1,0,0,37.319659,-97.433597,Storage,450.0
+Completed,Storage,North America,USA,1,0,0,0,37.036435,-82.144217,Storage,450.0
+Active,Capture and Storage,Europe,EU,0,0,0,0,50.382708,10.92342,Transport,450.0
+Active,Capture and Storage,Asia,TW,0,1,0,0,24.214745,120.479255,CCS,450.0
+Active,Capture and Storage,North America,CA,1,1,0,0,49.095559,-103.07764,CCS,450.0
+Terminated,Capture and Storage,Australia,AU,0,1,0,0,-33.161057,151.542996,CCS,1320.0
+Active,Capture and Storage,North America,CA,0,1,0,0,53.799307,-113.093229,CCS,225000.0
+Potential,Capture,Europe,Czech,0,0,0,0,48.848936,17.132222,Capture,105.0
+Potential,Capture and Storage,Asia,CN,0,0,0,0,38.237528,109.717015,CCS,450.0
+Hold,Capture and Storage,Europe,S,0,1,0,0,56.014195,-3.692054,CCS,570.0
+Hold,Capture and Storage,Asia,CN,0,0,0,0,46.576277,125.228479,CCS,350.0
+Potential,Capture and Storage,Europe,GB,0,1,0,0,53.744732,-0.998704,CCS,450.0
+Active,Capture and Storage,Asia,SA,0,1,0,0,24.807775,49.356405,CCS,450.0
+Potential,Capture and Storage,Asia,CN,0,0,0,0,23.002269,113.750935,CCS,750.0
+Active,Capture and Storage,Asia,CN,0,0,0,0,45.119225,124.798169,CCS,450.0
+Potential,Capture,Asia,CN,0,0,0,0,37.778832,112.474995,Capture,350.0
+Active,Capture,North America,USA,1,1,0,0,37.788156,-84.713791,Capture,0.7
+Active,Capture and Storage,North America,USA,1,1,0,0,39.88403,-88.887398,CCS,450.0
+Active,Capture and Storage,Europe,NO,0,1,0,0,59.840298,10.836658,CCS,450.0
+Active,Capture and Storage,Asia,CN,0,0,0,0,22.7724,115.352,CCS,2740.0
+Potential,Capture and Storage,North America,USA,0,0,0,0,42.4756,-110.489,CCS,6850.0
+Potential,Capture,Asia,CN,0,0,0,0,38.5318,106.249,Capture,10000.0
+Hold,Capture and Storage,Asia,CN,0,0,0,0,37.4142,118.607,CCS,1370.0
+Active,Capture and Storage,Asia,CN,0,0,0,0,37.46,118.49,CCS,600.0
+Active,Capture and Storage,Asia,CN,0,0,0,0,37.4316,108.92,CCS,1205.6
+Active,Capture and Storage,Asia,JP,0,0,0,0,34.233333,132.216667,CCS,1.0
+Completed,Hub,North America,USA,1,0,0,0,40.341002,-97.793843,Hub,450.0
+Potential,Storage,North America,USA,0,0,0,0,44.7241,-85.522351,Storage,450.0
+Potential,Capture and Storage,North America,USA,0,0,0,0,40.271999,-81.859679,CCS,450.0
+Potential,Storage,North America,USA,1,0,0,0,45.635052,-124.9843,Storage,450.0
+Potential,Plan,North America,USA,0,0,0,0,35.385317,-119.297308,Plan,450.0
+Potential,Storage,North America,USA,1,0,0,0,39.845347,-88.953416,Storage,450.0
+Potential,Storage,North America,USA,1,0,0,0,39.800683,-87.975712,Storage,450.0
+Potential,Storage,North America,USA,1,0,0,0,30.075864,-91.161065,Storage,450.0
+Completed,Storage,North America,USA,1,0,0,0,32.654011,-88.781194,Storage,450.0
+Potential,Roadmap,North America,USA,1,0,0,0,37.258813,-97.4817,Roadmap,450.0
+Potential,Storage,North America,USA,1,0,0,0,41.158381,-101.127248,Storage,450.0
+Potential,Storage,North America,USA,1,0,0,0,47.197797,-101.6796,Storage,450.0
+Potential,Storage,North America,USA,1,0,0,0,29.17706,-94.707493,Storage,450.0
+Potential,Capture and Storage,North America,USA,1,0,0,0,39.107347,-110.867393,CCS,450.0
+Potential,Storage,North America,USA,1,0,0,0,41.577869,-109.207281,Storage,450.0
+Potential,Storage,North America,USA,1,0,0,0,44.388915,-105.461027,Storage,450.0
+Active,Capture,North America,USA,1,0,0,0,40.104766,-88.241923,Capture,10.0
+Active,Capture,North America,USA,1,1,0,0,44.38918,-105.46109,Capture,200.0
+Active,Capture,North America,USA,1,1,0,0,38.586201,-85.412379,Capture,10.0
+Active,Capture,Europe,NO,1,0,0,0,60.803324,5.027942,Capture,10.0
+Active,Capture,Europe,NO,1,0,0,0,60.803324,5.027942,Capture,10.0
+Active,Capture,Europe,NO,1,0,0,0,60.803324,5.027942,Capture,10.0
+Active,Capture,Europe,NO,1,0,0,0,60.803324,5.027942,Capture,10.0
+Active,Capture,North America,USA,1,0,1,0,41.082047,-101.14317,Capture,700.0
+Active,Capture,North America,USA,1,0,1,0,38.905411,-84.851392,Capture,600.0
+Active,Capture,North America,USA,1,0,1,0,47.065786,-101.212171,Capture,455.0
+Terminated,Capture and Storage,North America,USA,1,0,0,0,30.096,-90.915,CCS,450.0
+Terminated,Capture and Storage,North America,USA,1,1,0,0,31.75334,-102.54305,CCS,450.0
+Terminated,Capture and Storage,North America,USA,1,1,0,0,29.3789,-94.92936,CCS,450.0
+Terminated,Capture and Storage,North America,USA,1,0,0,0,45.43,83.839,CCS,600.0
+Active,Capture,Asia,JP,0,0,0,0,40.040187,-76.48263800000001,Capture,450.0
+Active,Hub,Asia,JP,0,0,0,0,-7.218736,110.900066,TS,450.0
+Active,Capture,Australia,AU,0,1,0,0,53.738306,-0.998615,Capture,3906.0
+Active,Utilization,Europe,NO,0,1,0,0,59.06069,9.69052,CTS,450.0
+Active,Storage,Europe,GB,0,0,0,0,53.759691,-3.890529,Storage,450.0
+Active,Storage,Europe,PL,0,1,0,0,50.180222,18.932858,Storage,450.0
+Active,EOR,Australia,AU,0,0,0,0,40.040187,-76.48263800000001,EOR,450.0
+Active,Storage,Europe,DK,0,0,0,0,56.237304,5.853339,Storage,450.0
+Active,Capture,Europe,NO,0,1,0,0,53.733955,-0.238885,Capture,450.0
+Active,Capture,Europe,FR,0,1,0,0,45.804157,5.420279,Capture,450.0
+Active,Storage,Unknown,Unknown,0,1,0,0,47.377119,-101.15238,Storage,450.0
+Active,Capture and Storage,Europe,NO,0,1,0,0,59.840071,10.83646,CCS,450.0
+Active,Unknown,Europe,NL,0,0,0,0,51.948866,4.134252,Storage,450.0
+Active,Utilization,Europe,Swd,0,1,0,0,58.346534,11.421883,CTS,450.0
+Active,Plan,Unknown,Unknown,0,0,0,0,51.33413,3.830939,Plan,450.0
+Active,Hub,Europe,NO,0,0,0,0,59.622056,10.594439,TS,450.0
+Active,Capture and Storage,North America,USA,0,1,0,0,38.385927,-105.018079,CCS,450.0
+Potential,Capture,North America,USA,0,0,0,0,40.040187,-76.48263800000001,Capture,450.0
+Active,Direct Air Capture,Europe,NL,0,0,0,0,52.569361,4.241377,THS,450.0
+Active,Roadmap,Europe,S,0,0,0,0,40.040187,-76.48263800000001,Roadmap,450.0
+Active,Hub,Europe,S,0,0,0,0,56.013126,-3.691888,TS,450.0
+Active,Capture,Europe,GB,0,0,0,0,54.605549,-1.175697,Capture,450.0
+Active,Capture,Europe,GB,0,0,0,0,53.345991,-2.897419,Capture,450.0
+Active,Roadmap,Europe,E,0,0,0,0,52.534141,-2.081986,Roadmap,450.0
+Active,Capture,Asia,AE,0,1,0,0,22.90474,53.941988,Capture,450.0
+Active,Storage,Australia,AU,0,1,0,0,-28.113216,140.206906,Storage,450.0
+Active,Plan,Europe,E,0,0,0,0,40.040187,-76.48263800000001,Plan,450.0
+Active,Plan,Unknown,Unknown,0,0,0,0,40.040187,-76.48263800000001,Plan,450.0
+Active,Roadmap,Unknown,Unknown,0,0,0,0,40.040187,-76.48263800000001,Roadmap,450.0
+Active,Roadmap,Europe,E,0,0,0,0,40.040187,-76.48263800000001,Roadmap,450.0
+Active,Roadmap,Europe,W,0,0,0,0,40.040187,-76.48263800000001,Roadmap,450.0
+Active,Storage,Europe,S,0,0,0,0,53.711662,2.01455,Storage,450.0
+Active,Capture,Unknown,Unknown,0,1,0,0,41.884944,-110.090532,Capture,450.0
+Active,Capture,Europe,Sz,0,0,0,0,40.040187,-76.48263800000001,Capture,450.0
+Active,Capture,North America,CA,0,1,0,0,53.208461,-109.94781,Capture,450.0
+Active,Direct Air Capture,North America,CA,0,1,0,0,53.208461,-109.94781,Capture,450.0
+Active,Capture and Storage,North America,USA,1,1,0,1,46.879014,-102.29691,CCS,450.0
+Active,Capture,North America,USA,0,1,0,0,47.37694168,-101.1572266,Capture,450.0
+Active,Capture,North America,USA,0,0,0,0,40.040187,-76.48263800000001,Capture,120.0
+Active,Capture and Storage,Europe,Ire,0,0,0,0,51.819163,-8.244835,CCS,440.0
+Completed,Capture and Storage,Europe,S,0,1,0,0,56.025381,-3.685859,CCS,605.0
+Active,Capture and Storage,Europe,E,0,0,0,0,54.57648,-1.221469,CCS,450.0
+Active,Utilization,North America,USA,0,1,0,0,31.532671,-91.441124,CTS,450.0
+Active,Unknown,Europe,E,0,1,0,0,53.598494,-0.147233,Unknown,450.0
+Potential,Storage,Africa,Saf,0,0,0,0,-28.945,31.372,Storage,450.0
+Active,Capture,Europe,DK,0,0,0,0,55.621,13.004,Capture,450.0
+Active,Storage,North America,USA,0,1,0,0,28.982852,-95.308668,Storage,450.0
+Active,Capture,Asia,JP,0,1,0,0,34.36485,132.524931,Capture,450.0
+Active,Hub,North America,USA,0,1,0,0,40.693008,-91.230511,TS,450.0
+Active,Storage,North America,USA,0,1,0,0,32.232726,-103.58875,Storage,450.0
+Active,Capture and Storage,North America,USA,0,1,0,0,41.923768,-91.685419,Transport,450.0
+Active,Hub,North America,USA,0,0,0,0,30.41,-87.848,Hub,450.0
+Active,Hub,North America,CA,0,0,0,0,53.588,-114.616,Hub,450.0
+Active,Hub,North America,USA,0,0,0,0,41.083627,-104.189958,Hub,450.0
+Active,Capture and Storage,Asia,JP,0,0,0,0,40.040187,-76.48263800000001,Transport,450.0
+Active,Utilization,North America,USA,0,0,0,0,30.053414,-90.788434,CTS,450.0
+Active,Storage,Australia,TL,0,0,0,0,-8.699951,127.671664,Storage,450.0
+Active,Utilization,North America,USA,0,1,0,0,29.74636532,-95.01101265,CTS,450.0
+Active,Capture and Storage,Europe,GB,0,1,0,0,53.476958,-0.068257,Transport,450.0
+Potential,Roadmap,Europe,Sp,0,1,0,0,37.00444,-1.90425,CU,450.0
+Potential,Hub,Europe,E,0,0,0,0,54.306,0.417,TS,450.0
+Completed,Storage,Australia,AU,0,1,0,0,-38.5298,142.80295,Storage,450.0
+Active,Storage,Europe,NL,0,0,0,0,51.948866,4.134252,CCS,450.0
+Active,Capture,Asia,JP,0,0,0,0,40.040187,-76.48263800000001,Capture,450.0
+Active,Storage,Africa,Saf,0,0,0,0,26.335,28.898,Storage,450.0
+Active,Storage,Asia,CN,0,0,0,0,22.044,114.698,Storage,450.0
+Active,Unknown,North America,USA,0,1,0,0,47.35822,-101.84145,Transport,450.0
+Potential,Capture,North America,USA,0,0,0,0,30.13,-90.983,Capture,450.0
+Potential,Capture,Europe,GB,0,0,0,0,40.040187,-76.48263800000001,Capture,450.0
+Potential,Capture and Storage,Australia,AU,0,0,0,0,-20.233,116.752,CCS,450.0
+Active,Unknown,North America,CA,0,0,0,0,50.18,-120.407,DACU,450.0
+Potential,Plan,Unknown,Unknown,0,0,0,0,40.040187,-76.48263800000001,Plan,450.0
+Potential,Unknown,Europe,NO,0,0,0,0,40.040187,-76.48263800000001,Plan,450.0
+Potential,Capture and Storage,Asia,In,0,0,0,0,40.040187,-76.48263800000001,CCS,450.0
+Potential,Capture and Storage,Europe,Swd,0,0,0,0,57.696,11.873,Transport,450.0
+Potential,Capture and Storage,Unknown,Unknown,0,0,0,0,40.040187,-76.48263800000001,CCS,450.0
+Potential,Capture and Storage,Asia,In,0,1,0,0,22.36606,73.12899,CCS,450.0
+Potential,Capture,North America,USA,0,0,0,0,36.76,-120.381,Capture,450.0
+Potential,Capture and Storage,North America,USA,0,0,0,0,40.040187,-76.48263800000001,Transport,450.0
+Potential,Plan,Europe,FR,0,0,0,0,49.464,0.466,Plan,450.0
+Potential,Capture and Storage,Europe,Ice,0,1,0,0,64.35921,-21.78683,CCS,450.0
+Active,Capture and Storage,North America,USA,0,1,0,0,38.03074,-121.87006,CCS,450.0
+Potential,Unknown,North America,USA,0,0,0,0,39.506,-89.797,CCUST,450.0
+Potential,Capture and Storage,North America,CA,0,1,0,0,53.79655,-113.09176,CCS,450.0

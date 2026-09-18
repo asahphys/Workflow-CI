@@ -1,0 +1,7 @@
+name: ccs_ml_project
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    command: "python modelling.py"
