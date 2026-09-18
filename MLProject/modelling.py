@@ -9,6 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, accuracy_score
 
+
 def main():
 
     base_dir = Path(__file__).resolve().parent
@@ -87,38 +88,44 @@ def main():
         ]
     )
 
-    mlflow.set_experiment("CCS_ML_Classification")
-
+    # MLflow Autolog
     mlflow.autolog()
 
     print("\nMemulai pelatihan model...")
 
-    with mlflow.start_run():
+    # Training langsung.
+    # Saat dijalankan dengan MLflow Project,
+    # run sudah dibuat oleh MLflow sehingga tidak
+    # menggunakan mlflow.start_run() lagi.
+    model_pipeline.fit(
+        X_train,
+        y_train
+    )
 
-        model_pipeline.fit(X_train, y_train)
+    print("Pelatihan model selesai.")
 
-        print("Pelatihan model selesai.")
+    y_pred = model_pipeline.predict(X_test)
 
-        y_pred = model_pipeline.predict(X_test)
+    accuracy = accuracy_score(
+        y_test,
+        y_pred
+    )
 
-        accuracy = accuracy_score(
-            y_test,
-            y_pred
-        )
+    report = classification_report(
+        y_test,
+        y_pred
+    )
 
-        report = classification_report(
-            y_test,
-            y_pred
-        )
+    print("HASIL EVALUASI MODEL")
 
-        print("HASIL EVALUASI MODEL")
+    print(f"Test Accuracy: {accuracy:.4f}")
 
-        print(f"Test Accuracy: {accuracy:.4f}")
+    print("\nClassification Report:")
+    print(report)
 
-        print("\nClassification Report:")
-        print(report)
+    print("Training dan logging MLflow selesai.")
 
-        print("Training dan logging MLflow selesai.")
 
 if __name__ == "__main__":
     main()
+    
