@@ -1,0 +1,32 @@
+name: MLflow CI
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Miniconda
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          auto-activate-base: false
+          channels: conda-forge
+          channel-priority: strict
+
+      - name: Install MLflow
+        shell: bash -el {0}
+        run: |
+          pip install mlflow
+
+      - name: Run MLflow Project
+        shell: bash -el {0}
+        run: |
+          mlflow run ./MLProject --env-manager=conda
